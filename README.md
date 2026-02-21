@@ -6,8 +6,6 @@ Control 10,000 interactive 3D particles in your browser using hand gestures and 
 
 A real-time, browser-based 3D particle system that uses your webcam and hand gestures to control 10,000 particles. Built purely with **Three.js** and Google's **MediaPipe**, this project requires no backend and runs entirely on the client side.
 
-**[Try the Live Demo Here!](https://github.com/Aakash0678/magic-particles-3d.git)** *(Requires webcam access)*
-
 ## ✨ Features
 * **Real-time Hand Tracking:** Uses MediaPipe's AI vision models to detect hand landmarks at 60fps.
 * **Dynamic 3D Rendering:** Renders and animates 10,000 individual particles using Three.js WebGL.
